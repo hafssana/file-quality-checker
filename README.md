@@ -1,6 +1,6 @@
 
 # File Quality Checker
-Simple tool I made to check basic problems in files like HTML, CSS, JS, JSON, CSV, and SQL.
+Simple tool to check basic problems in files like HTML, CSS, JS, JSON, CSV, and SQL.
 
 ## Why I made it
 I usually work with many files and sometimes they have small mistakes.
