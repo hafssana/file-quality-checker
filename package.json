@@ -1,0 +1,12 @@
+{
+  "name": "file-quality-checker",
+  "version": "1.0.0",
+  "description": "A CLI tool to check basic quality issues in TXT, CSV, JSON, JS, HTML, CSS, and SQL files.",
+  "main": "index.js",
+  "bin": {
+    "fqc": "./index.js"
+  },
+  "keywords": ["file", "checker", "quality", "cli", "lint"],
+  "author": "Hafssa Nachet",
+  "license": "MIT"
+}
